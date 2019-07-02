@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarkBadClusTool", "MarkBadClusTool\MarkBadClusTool.vcxproj", "{32486DDA-C63A-45F1-B06A-DDDE08641C0A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "mhdd_log_converter\mhdd_log_converter.vcxproj", "{722CCFB9-0204-43C0-809A-2F3F99EC7255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32486DDA-C63A-45F1-B06A-DDDE08641C0A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{32486DDA-C63A-45F1-B06A-DDDE08641C0A}.Debug|Win32.Build.0 = Debug|Win32
+		{32486DDA-C63A-45F1-B06A-DDDE08641C0A}.Release|Win32.ActiveCfg = Release|Win32
+		{32486DDA-C63A-45F1-B06A-DDDE08641C0A}.Release|Win32.Build.0 = Release|Win32
+		{722CCFB9-0204-43C0-809A-2F3F99EC7255}.Debug|Win32.ActiveCfg = Debug|Win32
+		{722CCFB9-0204-43C0-809A-2F3F99EC7255}.Debug|Win32.Build.0 = Debug|Win32
+		{722CCFB9-0204-43C0-809A-2F3F99EC7255}.Release|Win32.ActiveCfg = Release|Win32
+		{722CCFB9-0204-43C0-809A-2F3F99EC7255}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
