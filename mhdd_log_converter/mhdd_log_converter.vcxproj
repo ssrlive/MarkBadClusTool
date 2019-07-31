@@ -89,6 +89,10 @@
   <ItemGroup>
     <ClCompile Include="test.c" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Readme.txt" />
+    <None Include="MHDD.LOG" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
